@@ -2,7 +2,7 @@ Team Member :
 
 | ID           | Name                                | Learning Path | Profile |
 | :------------: | ----------------------------------- | :--------------: | :-------: |
-| A560BSY2049  | Muhammad Rizki                      | MD             |    mrizky-22     |
+| A560BSY2049  | Muhammad Rizki                      | MD             |    [mrizki-22](https://github.com/mrizki-22)    |
 | M014BSX1488  | Made Hollanda Putri                 | ML             |         |
 | M014BSX1666  | Ni Komang Putri Sandya              | ML             |         |
 | M014BSX1558  | I Gusti Agung Intan Utami Putri     | ML             |         |
