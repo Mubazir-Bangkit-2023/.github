@@ -1,5 +1,5 @@
 | ID           | Name                                | Learning Path | Profile |
-| ------------ | ----------------------------------- | -------------- | ------- |
+| :------------: | ----------------------------------- | :--------------: | :-------: |
 | A560BSY2049  | Muhammad Rizki                      | MD             |         |
 | M014BSX1488  | Made Hollanda Putri                 | ML             |         |
 | M014BSX1666  | Ni Komang Putri Sandya              | ML             |         |
