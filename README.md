@@ -1,6 +1,3 @@
-# Mubazir: Surplus Food Application
-
-
 Team Member :
 
 | ID           | Name                                | Learning Path | Profile |
