@@ -1,4 +1,3 @@
-<<<<<<< patch-1
 # MUBAZIR : Surplus Food Application
 
 ![Mubazir brand mascot](https://github.com/Mubazir-Bangkit-2023/.github/assets/95016158/f4a7c570-a890-43ee-b4cd-a67724b9f271)
@@ -9,7 +8,6 @@ Food waste is one of the critical issues that require attention in Indonesia. Ac
 ## Team Member :
 =======
 Team Member :
->>>>>>> main
 
 | ID           | Name                                | Learning Path | Profile |
 | :------------: | ----------------------------------- | :--------------: | :-------: |
