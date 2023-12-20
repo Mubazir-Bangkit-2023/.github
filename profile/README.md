@@ -5,7 +5,7 @@
 
 
 ## About
-Food waste is one of the critical issues that require attention in Indonesia. According to the National Waste Management Information System (SIPSN) in 2022, food waste accounted for the highest percentage of waste at 40.64%, approximately 14.3 million tons. Many people discard more food than they need, while many individuals and organizations struggle with food insecurity. To address this problem, a platform is needed to allow users to share surplus food by either selling or donating it. "Mubazir" is surplus food application designed to solve the problem of food waste that occurs in Indonesia. 
+Food waste is one of the critical issues that require attention in Indonesia. According to the National Waste Management Information System (SIPSN) in 2023, food waste accounted for the highest percentage of waste at 40.3%, approximately 5.4 million tons. Many people discard more food than they need, while many individuals and organizations struggle with food insecurity. To address this problem, a platform is needed to allow users to share surplus food by either selling or donating it. "Mubazir" is surplus food application designed to solve the problem of food waste that occurs in Indonesia. 
 
 ## Team Member :
 
