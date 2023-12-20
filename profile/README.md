@@ -1,6 +1,7 @@
 # MUBAZIR : Surplus Food Application
-
+<div align="center">
 <img src="https://github.com/Mubazir-Bangkit-2023/.github/assets/95016158/f4a7c570-a890-43ee-b4cd-a67724b9f271" width="50%" height="50%" >
+</div>
 
 
 ## About
